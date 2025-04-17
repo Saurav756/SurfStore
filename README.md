@@ -60,11 +60,3 @@ Clean:
 ```console
 $ make clean
 ```
-
-## More details
-
-This project was developed in 3 phases as a part of the CS 224: Graduate Networked Systems course at UCSD offered in Winter 2023. More specifications about the project can be found in the documents offered by the course:
-
-1. [Phase 1](https://docs.google.com/document/d/1-MI25UT0bwNPzByoNwOSDwY-Et5x1KxraKhMAUYyQ1Q/edit?usp=sharing)
-2. [Phase 2](https://docs.google.com/document/d/1KHbEP_zS3vq4rdLe2vQ1GgkIu-6MNc8mstdh4APFdsE/edit?usp=sharing)
-3. [Phase 3](https://docs.google.com/document/d/1s_Ba_ba_f11ZU08f9Yo34SiH9KjF8M3Rz2H8US0FOpI/edit?usp=sharing)
