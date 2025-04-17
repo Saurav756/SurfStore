@@ -15,7 +15,7 @@ func main() {
 
 	config := surfstore.LoadRaftConfigFile(*configFile)
 
-	// Disable log outputs if debug flag is missing
+	// Disable log outputs if debug flag is missing.
 	if !(*debug) {
 		log.SetFlags(0)
 		log.SetOutput(ioutil.Discard)
