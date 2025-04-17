@@ -42,6 +42,7 @@ func (d *DirectoryWorker) AddFile(filename string) error {
 	return CopyFile(d.SrcPath+"/"+filename, d.DirectoryName+"/"+filename)
 }
 
+
 func (d *DirectoryWorker) DeleteFile(filename string) error {
 	return DeleteFile(d.DirectoryName + "/" + filename)
 }
